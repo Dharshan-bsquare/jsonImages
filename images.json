@@ -1,7 +1,7 @@
 [
-    "/images/Login-illustration.png",
-    "/images/dimage_1.jpg",
-    "/images/dimage_2.jpg",
-    "/images/dimage_3.jpg",
-    "/images/dimage_4.jpg"
+    "./images/Login-illustration.png",
+    "./images/dimage_1.jpg",
+    "./images/dimage_2.jpg",
+    "./images/dimage_3.jpg",
+    "./images/dimage_4.jpg"
 ]
