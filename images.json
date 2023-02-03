@@ -1,7 +1,6 @@
 [
-    "./images/Login-illustration.png",
-    "./images/dimage_1.jpg",
-    "./images/dimage_2.jpg",
-    "./images/dimage_3.jpg",
-    "./images/dimage_4.jpg"
+    "https://raw.githubusercontent.com/Dharshan-bsquare/jsonImages/main/images/Login-illustration.png",
+    "https://raw.githubusercontent.com/Dharshan-bsquare/jsonImages/main/images/dimage_1.jpg",
+    "https://raw.githubusercontent.com/Dharshan-bsquare/jsonImages/main/images/dimage_2.jpg",
+    "https://raw.githubusercontent.com/Dharshan-bsquare/jsonImages/main/images/dimage_3.jpg"  
 ]
